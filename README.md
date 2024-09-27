@@ -32,7 +32,7 @@
    Input multiple URLs at once for batch management.
 
 3. **❌ Delete Web Shell from Panel**  
-   Remove selected web shells from the panel. Data will remain stored, but the shell is not removed from the server.
+   Remove selected web shells from the panel but the shell is not removed from the server.
 
 4. **🗑️ Clear All**  
    Similar to the delete option, this removes all web shells from the panel in a batch, but does not delete them from the server.
