@@ -1,5 +1,3 @@
-# ZeroShell-Manager
- ZeroShell Manager (GUI) is a Tool designed to help users manage their Webshells
 # ZeroShell Manager v1.0 GUI
 
 **🚀 ZeroShell Manager** is a tool designed to help users manage their web shells through a user-friendly graphical interface built with Tkinter. With its simple UI, it offers both light and dark modes for users preferences. While this is the first version, great care has been taken in testing to minimize bugs.
@@ -49,7 +47,7 @@
    Check multiple shells at once to verify if they are alive or dead.
 
 8. **📤 Shell Manager > File Upload**  
-   Upload a file to the server through the web shell. A popup will show you the file's location on the server after the upload.
+   Upload a file to the server through the web shell. A popup will show you the file's location on the server after the upload. 
 
 9. **🔒 Shell Manager > Rename and Change Password**  
    Automatically generate a new name for the shell and change its password. The panel will be updated with the new URL and password.
@@ -73,7 +71,12 @@ python3 Main.py
 ## How to Use
 0. Upload File via error_log.php None obfuscator or choose strong protect with err_Obf 
 another wish you can obfuscator your personal than upload to make strong Undetected in server.
-1. Add URLs or mass input URLs into the Panel with.
+
+1. Add URLs or mass input URLs into the Panel with 
+
+   Example : localhost.com/error_log.php?whoami=@1337
+  
+   (whoami= is default and @1337 is password of shell will be change in later or your own in error_log.php)
 2. Browse, check, upload files, or manage the shells as needed using the Shell Manager options.
 3. Use the "Destroy" option to remove shells from your server when no longer needed.
 
@@ -91,6 +94,12 @@ Explore our community and connect with us on visit our website for more Tools an
 ---
 
 </div>
+
+## Disclaimer
+
+This Program is made for **educational purposes only**. Take your owner Risk.
+
+Use it responsibly and in compliance with all applicable laws.
 
 ## Contribution
 
