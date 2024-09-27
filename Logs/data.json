@@ -1,0 +1,34 @@
+[
+    {
+        "domain": "http://localhost/error_log.php?whoami=@1337",
+        "ip": "127.0.0.1",
+        "flag": "unknown_flag",
+        "serverinfo": "Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.3",
+        "pwd": "@1337",
+        "status": "Online"
+    },
+    {
+        "domain": "http://localhost/sec2.php?whoami=@1337",
+        "ip": "127.0.0.1",
+        "flag": "unknown_flag",
+        "serverinfo": "Apache/2.4.38 (Win64) OpenSSL/1.1.1b PHP/7.3.3",
+        "pwd": "@1337",
+        "status": "Online"
+    },
+    {
+        "domain": "http://localhost/sec1.php?whoami=@1337",
+        "ip": "127.0.0.1",
+        "flag": "unknown_flag",
+        "serverinfo": null,
+        "pwd": "@1337",
+        "status": "Offline"
+    },
+    {
+        "domain": "http://localhost/sec.php?whoami=@1337",
+        "ip": "127.0.0.1",
+        "flag": "unknown_flag",
+        "serverinfo": "",
+        "pwd": "@1337",
+        "status": "unchecked"
+    }
+]
