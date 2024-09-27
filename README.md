@@ -6,20 +6,23 @@
 
 ## Screenshots 
 
-🌐 **Change Name Shell&PWD**  
-![Change Name&PWD](link-to-Change-Name&Password-screenshot)
-
-🌐 **Small Screen**  
-![Small Screen](link-to-Small-mode-screenshot)
 
 🌐 **Full Screen**  
-![Full Screen](link-to-Full-mode-screenshot)
+![Full Screen](https://raw.githubusercontent.com/drcrypterdotru/ZeroShell-Manager/refs/heads/main/Screenshot/light_mode.png)
 
-🌓 **Light Mode**  
-![Light Mode](link-to-light-mode-screenshot)
+🌐 **Small Screen**  
+![Small Screen](https://raw.githubusercontent.com/drcrypterdotru/ZeroShell-Manager/refs/heads/main/Screenshot/small.png)
+
+
+🌐 **Change Name Shell&PWD**  
+![Change Name&PWD](https://raw.githubusercontent.com/drcrypterdotru/ZeroShell-Manager/refs/heads/main/Screenshot/changename_pwd.png)
 
 🌑 **Dark Mode**  
-![Dark Mode](link-to-dark-mode-screenshot)
+![Dark Mode](https://raw.githubusercontent.com/drcrypterdotru/ZeroShell-Manager/refs/heads/main/Screenshot/dark_mode.png)
+
+🌓 **Light Mode**  
+![Light Mode](https://raw.githubusercontent.com/drcrypterdotru/ZeroShell-Manager/refs/heads/main/Screenshot/light_mode.png)
+
 
 ## Features 
 **✨ ZeroShell Manager v1.0** provides the following features:
